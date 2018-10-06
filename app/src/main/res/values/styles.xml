@@ -8,10 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="Title">
-        <item name="android:textColor">@color/secondaryTextColor"</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
     </style>
     <style name="Desc">
-        <item name="android:textColor">@color/primaryDarkColor"</item>
+        <item name="android:textColor">@color/primaryDarkColor</item>
     </style>
     <style name="Click">
         <item name="android:background">@color/primaryColor</item>
